@@ -1,0 +1,30 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Pytest
+# =========================
+.pytest_cache/
+
+# =========================
+# Playwright
+# =========================
+playwright-report/
+test-results/
+screenshots/
+# =========================
+# Allure
+# =========================
+allure-results/
+allure-report/
+
+# =========================
+# Reports & Screenshots
+# =========================
+screenshots/
+report.html
