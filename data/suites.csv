@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Jan 06 13:29:51 UTC 2026","Tue Jan 06 13:29:51 UTC 2026","0","tests","test_results","","","","test_verifySearchResults",""
+"failed","Tue Jan 06 13:29:51 UTC 2026","Tue Jan 06 13:29:51 UTC 2026","0","tests","test_productCheckOut","","","","test_validateProductCheckOut",""
+"failed","Tue Jan 06 13:29:51 UTC 2026","Tue Jan 06 13:29:51 UTC 2026","0","tests","test_productCheckOut","","","","test_validateTheCheckOutUI",""
+"failed","Tue Jan 06 13:29:51 UTC 2026","Tue Jan 06 13:29:51 UTC 2026","0","tests","test_results","","","","test_validate_addToCartFunctionality",""
+"failed","Tue Jan 06 13:29:51 UTC 2026","Tue Jan 06 13:29:51 UTC 2026","0","tests","test_login","","","","test_validateTheVisibilityofSwitchAccount",""
